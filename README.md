@@ -1,7 +1,7 @@
 # panopticon-nfc-helper
 > NFC device setup helper for the Panopticon project.
 
-## Compile
+## Build
 
 Require [libnfc](https://github.com/nfc-tools/libnfc)
 
