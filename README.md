@@ -3,7 +3,7 @@
 
 ## Build
 
-Require [libnfc](https://github.com/nfc-tools/libnfc)
+Requires [libnfc](https://github.com/nfc-tools/libnfc).
 
 ```
 gcc -c nfc-helper.c
