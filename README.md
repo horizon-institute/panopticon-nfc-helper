@@ -6,8 +6,7 @@
 Requires [libnfc](https://github.com/nfc-tools/libnfc).
 
 ```
-gcc -c nfc-helper.c
-gcc -o nfc-helper nfc-helper.o -lnfc
+make
 ```
 
 ## Run
